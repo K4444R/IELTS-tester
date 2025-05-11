@@ -29,11 +29,7 @@ class User (
     @Column(nullable = false)
     var updatedAt: Instant = Instant.now(),
 
-    @ManyToMany(fetch = FetchType.EAGER)
-    @JoinTable(
-        name = "user_roles",
-        joinColumns = [JoinColumn(name = "user_id")],
-        inverseJoinColumns = [JoinColumn(name = "role_id")]
-    )
-    var roles: Set<Role> = mutableSetOf()
+    @ManyToOne
+    @JoinColumn(name = "role_id")
+    var role: Role
 )

@@ -30,7 +30,7 @@ class AuthServiceImpl(
             username = username,
             email = email,
             password = passwordEncoder.encode(rawPassword),
-            roles = setOf(roleUser),
+            role = roleUser,
             enabled = true
         )
 
@@ -47,7 +47,7 @@ class AuthServiceImpl(
             return null
         }
 
-        val accessToken = jwtTokenProvider.generateToken(user.username)
+        val accessToken = jwtTokenProvider.generateToken(user)
         val refreshToken = java.util.UUID.randomUUID().toString()
 
         refreshTokenRepository.save(
@@ -66,7 +66,7 @@ class AuthServiceImpl(
             .filter { it.expiresAt.isAfter(Instant.now()) }
             .orElse(null) ?: return null
 
-        val accessToken = jwtTokenProvider.generateToken(refreshToken.user.username)
+        val accessToken = jwtTokenProvider.generateToken(refreshToken.user)
         val newRefreshToken = java.util.UUID.randomUUID().toString()
 
         refreshTokenRepository.delete(refreshToken)

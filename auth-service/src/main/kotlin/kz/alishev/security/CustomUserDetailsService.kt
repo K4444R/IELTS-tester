@@ -20,7 +20,7 @@ class CustomUserDetailsService(
                 UsernameNotFoundException("User '$username' not found")
             } }
 
-        val authorities = userEntity.roles.map { SimpleGrantedAuthority(it.name) }
+        val authorities = userEntity.role.name?.map { SimpleGrantedAuthority(it.toString()) }
 
         return org.springframework.security.core.userdetails.User(
             userEntity.username,
