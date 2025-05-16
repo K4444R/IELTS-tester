@@ -35,7 +35,7 @@ class SecurityConfig(
                     .requestMatchers("/auth/**").permitAll()
                     .requestMatchers("/eureka/**").permitAll()
                     .requestMatchers("/acutator/**").permitAll()
-                    .requestMatchers("/test/**").permitAll()
+                    .requestMatchers("/test-execution/**").permitAll()
                     .anyRequest().authenticated()
             }
             .addFilterBefore(jwtAuthenticationFilter, UsernamePasswordAuthenticationFilter::class.java)

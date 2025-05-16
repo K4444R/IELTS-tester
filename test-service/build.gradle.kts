@@ -26,14 +26,21 @@ dependencyManagement {
 }
 
 dependencies {
+    implementation("org.springframework.cloud:spring-cloud-starter-openfeign")
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.springframework.cloud:spring-cloud-starter-netflix-eureka-client")
     runtimeOnly("org.postgresql:postgresql")
+    implementation("org.springframework.boot:spring-boot-starter-oauth2-resource-server")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+
+    implementation("io.github.openfeign:feign-okhttp")
+    implementation("io.github.openfeign:feign-jackson")
+    implementation("com.squareup.okhttp3:okhttp")
+    implementation("org.springframework.cloud:spring-cloud-commons")
 }
 
 kotlin {

@@ -17,7 +17,7 @@ class StatisticService(
         val statistic = Statistic()
         statistic.userId = userId
         statistic.bestScore = resultRepository.findFirstByOrderByTotalScoreDesc().totalScore
-        statistic.averageScore = resultRepository.findAverageScore(attemptId)
+        statistic.averageScore = resultRepository.findAverageScore(userId)
         statistic.attemptsCount = attemptRepository.countByUserId(userId)
         return statisticRepository.save(statistic)
     }

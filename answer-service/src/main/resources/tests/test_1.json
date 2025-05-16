@@ -1,0 +1,727 @@
+{
+  "id": "test_1",
+  "title": "IELTS Test 1",
+  "parts": [
+    {
+      "name": "Listening",
+      "blocks": [
+        {
+          "questionType": "fill_in_blank",
+          "questions": [
+            {
+              "questionId": "placeholder_1",
+              "prompt": "making sure the beach does not have ___ on it",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_2",
+              "prompt": "no ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_3",
+              "prompt": "taking action to attract ___ to the place",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_4",
+              "prompt": "identifying types of ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_5",
+              "prompt": "building a new ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_6",
+              "prompt": "walk across the sands and reach the ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_7",
+              "prompt": "wear appropriate ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_8",
+              "prompt": "suitable for ___ to participate in",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_9",
+              "prompt": "making ___ out of wood",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_10",
+              "prompt": "cost of session (no camping): £ ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_27",
+              "prompt": "Medical terminology ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_28",
+              "prompt": "Diet and nutrition ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_29",
+              "prompt": "Animal disease ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_30",
+              "prompt": "Wildlife medication ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_31",
+              "prompt": "Mazes are a type of ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_32",
+              "prompt": "___ is needed to navigate through a maze",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_33",
+              "prompt": "feeling of ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_34",
+              "prompt": "used in ___ and prayer",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_35",
+              "prompt": "Ancient carvings on ___ have been found across many cultures",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_36",
+              "prompt": "Ancient Greeks used the symbol on ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_37",
+              "prompt": "turf labyrinth once had a big ___ at its centre",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_38",
+              "prompt": "reduce a person’s ___ rate",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_39",
+              "prompt": "‘finger labyrinths’ made from ___",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "placeholder_40",
+              "prompt": "Alzheimer’s sufferers experience less ___",
+              "answerType": "fill_in_blank"
+            }
+          ]
+        },
+        {
+          "questionType": "multiple_choice",
+          "questions": [
+            {
+              "questionId": "question_11",
+              "prompt": "What is the maximum number of people who can stand on each side of the boat?",
+              "options": [
+                "9",
+                "15",
+                "18"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_12",
+              "prompt": "What colour are the tour boats?",
+              "options": [
+                "dark red",
+                "jet black",
+                "light green"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_13",
+              "prompt": "Which lunchbox is suitable for someone who doesn’t eat meat or fish?",
+              "options": [
+                "Lunchbox 1",
+                "Lunchbox 2",
+                "Lunchbox 3"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_14",
+              "prompt": "What should people do with their litter?",
+              "options": [
+                "take it home",
+                "hand it to a member of staff",
+                "put it in the bins provided on the boat"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_21",
+              "prompt": "What problem did both Diana and Tim have when arranging their work experience?",
+              "options": [
+                "making initial contact with suitable farms",
+                "organising transport to and from the farm",
+                "finding a placement for the required length of time"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_22",
+              "prompt": "Tim was pleased to be able to help",
+              "options": [
+                "a lamb that had a broken leg.",
+                "a sheep that was having difficulty giving birth.",
+                "a newly born lamb that was having trouble feeding."
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_23",
+              "prompt": "Diana says the sheep on her farm",
+              "options": [
+                "were of various different varieties.",
+                "were mainly reared for their meat.",
+                "had better quality wool than sheep on the hills."
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_24",
+              "prompt": "What did the students learn about adding supplements to chicken feed?",
+              "options": [
+                "These should only be given if specially needed.",
+                "It is worth paying extra for the most effective ones.",
+                "The amount given at one time should be limited."
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_25",
+              "prompt": "What happened when Diana was working with dairy cows?",
+              "options": [
+                "She identified some cows incorrectly.",
+                "She accidentally threw some milk away.",
+                "She made a mistake when storing milk."
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_26",
+              "prompt": "What did both farmers mention about vets and farming?",
+              "options": [
+                "Vets are failing to cope with some aspects of animal health.",
+                "There needs to be a fundamental change in the training of vets.",
+                "Some jobs could be done by the farmer rather than by a vet."
+              ],
+              "answerType": "multiple_choice"
+            }
+          ]
+        },
+        {
+          "questionType": "multiple_select",
+          "questions": [
+            {
+              "questionId": "question_15",
+              "prompt": "Which TWO features of the lighthouse does Lou mention?",
+              "options": [
+                "why it was built",
+                "who built it",
+                "how long it took to build",
+                "who staffed it",
+                "what it was built with"
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_16",
+              "prompt": "Which TWO features of the lighthouse does Lou mention?",
+              "options": [
+                "why it was built",
+                "who built it",
+                "how long it took to build",
+                "who staffed it",
+                "what it was built with"
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_17",
+              "prompt": "Which TWO types of creature might come close to the boat?",
+              "options": [
+                "sea eagles",
+                "fur seals",
+                "dolphins",
+                "whales",
+                "penguins"
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_18",
+              "prompt": "Which TWO types of creature might come close to the boat?",
+              "options": [
+                "sea eagles",
+                "fur seals",
+                "dolphins",
+                "whales",
+                "penguins"
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_19",
+              "prompt": "Which TWO points does Lou make about the caves?",
+              "options": [
+                "Only large tourist boats can visit them.",
+                "The entrances to them are often blocked.",
+                "It is too dangerous for individuals to go near them.",
+                "Someone will explain what is inside them.",
+                "They cannot be reached on foot."
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_20",
+              "prompt": "Which TWO points does Lou make about the caves?",
+              "options": [
+                "Only large tourist boats can visit them.",
+                "The entrances to them are often blocked.",
+                "It is too dangerous for individuals to go near them.",
+                "Someone will explain what is inside them.",
+                "They cannot be reached on foot."
+              ],
+              "answerType": "multiple_select"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "blocks": [
+        {
+          "questionType": "fill_in_blank",
+          "questions": [
+            {
+              "questionId": "reading_placeholder_1",
+              "prompt": "The ____ of London increased rapidly between 1800 and 1850",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_2",
+              "prompt": "to move people to better housing in the ____",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_3",
+              "prompt": "A number of ____ agreed with Pearson’s idea",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_4",
+              "prompt": "the ____ needed for the project",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_5",
+              "prompt": "articles appeared in the ____",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_6",
+              "prompt": "the tunnel was covered with ____",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_18",
+              "prompt": "was converted first into a ____",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_19",
+              "prompt": "spectators could watch ____",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_20",
+              "prompt": "venue where ____ is performed",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_21",
+              "prompt": "including the storage of ____",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_22",
+              "prompt": "It is now a market square with ____ and homes incorporated into the remains",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_27",
+              "prompt": "formed a ____ with the Scots",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_28",
+              "prompt": "abandoned an important ____ that was held by his father",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_29",
+              "prompt": "battle led to a ____ for the Parliamentarians",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_30",
+              "prompt": "A ____ was offered for Charles’s capture",
+              "answerType": "fill_in_blank"
+            },
+            {
+              "questionId": "reading_placeholder_31",
+              "prompt": "he eventually managed to reach the ____ of continental Europe",
+              "answerType": "fill_in_blank"
+            }
+          ]
+        },
+        {
+          "questionType": "multiple_choice",
+          "questions": [
+            {
+              "questionId": "question_14_reading",
+              "prompt": "a mention of negative attitudes towards stadium building projects",
+              "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_15_reading",
+              "prompt": "figures demonstrating the environmental benefits of a certain stadium",
+              "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_16_reading",
+              "prompt": "examples of the wide range of facilities available at some new stadiums",
+              "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_17_reading",
+              "prompt": "reference to the disadvantages of the stadiums built during a certain era",
+              "options": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_36_reading",
+              "prompt": "What is the reviewer’s main purpose in the first paragraph?",
+              "options": [
+                "to describe what happened during the Battle of Worcester",
+                "to give an account of the circumstances leading to Charles II’s escape",
+                "to provide details of the Parliamentarians’ political views",
+                "to compare Charles II’s beliefs with those of his father"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_37_reading",
+              "prompt": "Why does the reviewer include examples of the fugitives’ behaviour in the third paragraph?",
+              "options": [
+                "to explain how close Charles II came to losing his life",
+                "to suggest that Charles II’s supporters were badly prepared",
+                "to illustrate how the events of the six weeks are brought to life",
+                "to argue that certain aspects are not as well known as they should be"
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_38_reading",
+              "prompt": "What point does the reviewer make about Charles II in the fourth paragraph?",
+              "options": [
+                "He chose to celebrate what was essentially a defeat.",
+                "He misunderstood the motives of his opponents.",
+                "He aimed to restore people’s faith in the monarchy.",
+                "He was driven by a desire to be popular."
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_39_reading",
+              "prompt": "What does the reviewer say about Charles Spencer in the fifth paragraph?",
+              "options": [
+                "His decision to write the book comes as a surprise.",
+                "He takes an unbiased approach to the subject matter.",
+                "His descriptions of events would be better if they included more detail.",
+                "He chooses language that is suitable for a twenty-first-century audience."
+              ],
+              "answerType": "multiple_choice"
+            },
+            {
+              "questionId": "question_40_reading",
+              "prompt": "When the reviewer says the book ‘doesn’t quite hit the mark’, she is making the point that",
+              "options": [
+                "it overlooks the impact of events on ordinary people.",
+                "it lacks an analysis of prevalent views on monarchy.",
+                "it omits any references to the deceit practised by Charles II during his time in hiding.",
+                "it fails to address whether Charles II’s experiences had a lasting influence on him."
+              ],
+              "answerType": "multiple_choice"
+            }
+          ]
+        },
+        {
+          "questionType": "multiple_select",
+          "questions": [
+            {
+              "questionId": "question_23_reading",
+              "prompt": "When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?",
+              "options": [
+                "They are less imaginatively designed.",
+                "They are less spacious.",
+                "They are in less convenient locations.",
+                "They are less versatile.",
+                "They are made of less durable materials."
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_24_reading",
+              "prompt": "When comparing twentieth-century stadiums to ancient amphitheatres in Section D, which TWO negative features does the writer mention?",
+              "options": [
+                "They are less imaginatively designed.",
+                "They are less spacious.",
+                "They are in less convenient locations.",
+                "They are less versatile.",
+                "They are made of less durable materials."
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_25_reading",
+              "prompt": "Which TWO advantages of modern stadium design does the writer mention?",
+              "options": [
+                "offering improved amenities for the enjoyment of sports events",
+                "bringing community life back into the city environment",
+                "facilitating research into solar and wind energy solutions",
+                "enabling local residents to reduce their consumption of electricity",
+                "providing a suitable site for the installation of renewable power generators"
+              ],
+              "answerType": "multiple_select"
+            },
+            {
+              "questionId": "question_26_reading",
+              "prompt": "Which TWO advantages of modern stadium design does the writer mention?",
+              "options": [
+                "offering improved amenities for the enjoyment of sports events",
+                "bringing community life back into the city environment",
+                "facilitating research into solar and wind energy solutions",
+                "enabling local residents to reduce their consumption of electricity",
+                "providing a suitable site for the installation of renewable power generators"
+              ],
+              "answerType": "multiple_select"
+            }
+          ]
+        },
+        {
+          "questionType": "true_false_not_given",
+          "questions": [
+            {
+              "questionId": "question_7_reading",
+              "prompt": "Other countries had built underground railways before the Metropolitan line opened.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_8_reading",
+              "prompt": "More people than predicted travelled on the Metropolitan line on the first day.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_9_reading",
+              "prompt": "The use of ventilation shafts failed to prevent pollution in the tunnels.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_10_reading",
+              "prompt": "A different approach from the ‘cut and cover’ technique was required in London’s central area.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_11_reading",
+              "prompt": "The windows on City & South London trains were at eye level.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_12_reading",
+              "prompt": "The City & South London Railway was a financial success.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_13_reading",
+              "prompt": "Trains on the ‘Tuppenny Tube’ nearly always ran on time.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_32_reading",
+              "prompt": "Charles chose Pepys for the task because he considered him to be trustworthy.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_33_reading",
+              "prompt": "Charles’s personal recollection of the escape lacked sufficient detail.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_34_reading",
+              "prompt": "Charles indicated to Pepys that he had planned his escape before the battle.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            },
+            {
+              "questionId": "question_35_reading",
+              "prompt": "The inclusion of Charles’s account is a positive aspect of the book.",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ],
+              "answerType": "true_false_not_given"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "blocks": [
+        {
+          "questionType": "essay",
+          "questions": [
+            {
+              "questionId": "writing_task1",
+              "prompt": "The maps below show an industrial area in the town of Norbiton, and planned future development of the site. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+              "answerType": "essay"
+            },
+            {
+              "questionId": "writing_task2",
+              "prompt": "It is important for people to take risks, both in their professional lives and their personal lives. Do you think the advantages of taking risks outweigh the disadvantages?",
+              "answerType": "essay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "blocks": [
+        {
+          "questionType": "oral",
+          "questions": [
+            {
+              "questionId": "speaking_task1",
+              "prompt": "Describe the neighbourhood you lived in when you were a child.\nYou should say:\n- where in your town/city the neighbourhood was\n- what kind of people lived there\n- what it was like to live in this neighbourhood\nand explain whether you would like to live in this neighbourhood in the future.",
+              "answerType": "oral"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
